@@ -53,8 +53,7 @@ dns:
   fake-ip-range: 198.20.0.1/16
 # nameserver服务器最好使用自己ipv4上游DNS地址  
   nameserver:
-    - 202.96.128.166
-    - 202.96.134.133
+    - 223.5.5.5
   fake-ip-filter:
     - +.lan
     - +.local
